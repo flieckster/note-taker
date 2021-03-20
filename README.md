@@ -12,6 +12,7 @@ This is an application that uses express to save notes to a db.json file, to sav
 [Walkthru]https://screencast-o-matic.com/watch/creYqqVVfx4
 
 ## Deployment
+[Heroku](https://note-taker-bflieck.herokuapp.com/)
 [![Video](![Screen Shot 2021-03-20 at 3 21 38 PM](https://user-images.githubusercontent.com/9003865/111883168-0cebad80-8990-11eb-83cc-ef7a0c0d95f2.png))](https://screencast-o-matic.com/watch/creYqqVVfx4)
 
 
